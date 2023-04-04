@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "vite": "^4.2.1"
+  },
+  "name": "map",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
